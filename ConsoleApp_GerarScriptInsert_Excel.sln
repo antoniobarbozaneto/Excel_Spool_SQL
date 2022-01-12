@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_GerarScriptInsert_Excel", "ConsoleApp_GerarScriptInsert_Excel.csproj", "{077699EA-7287-4504-9F8C-BDB93892F4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077699EA-7287-4504-9F8C-BDB93892F4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077699EA-7287-4504-9F8C-BDB93892F4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077699EA-7287-4504-9F8C-BDB93892F4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077699EA-7287-4504-9F8C-BDB93892F4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {515AD817-18E1-4E06-AF10-49BA40F56463}
+	EndGlobalSection
+EndGlobal
